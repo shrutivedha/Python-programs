@@ -1,4 +1,4 @@
-#<H1> Python-programs </h1><br>
+<H1> Python-programs </h1><br>
 
 📌 About This Repository
 
@@ -22,6 +22,6 @@ The goal of this repo is to practice daily coding and build a strong Python foun
 
 🛠️ Technologies Used
 
-Language: Python 3.x
+    Language: Python 3.x
 
-Editor (recommended): VS Code / PyCharm / Jupyter Notebook
+    Editor (recommended): VS Code / PyCharm / Jupyter Notebook
