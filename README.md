@@ -1,6 +1,6 @@
 <H1> Python-programs </h1><br>
 
-📌 About This Repository
+<h3>📌 About This Repository</h3>
 
 This collection includes programs covering:
 
