@@ -1,8 +1,8 @@
-<H1> Python-programs </h1><br>
+<H1> Python Programs </h1><br>
 
 <h3>📌 About This Repository</h3>
 
-This collection includes programs covering:
+<h2>This collection includes programs covering:</h2>
 
 ✅ Basic Python syntax & fundamentals
 
@@ -22,6 +22,6 @@ The goal of this repo is to practice daily coding and build a strong Python foun
 
 🛠️ Technologies Used
 
-    Language: Python 3.x
+   -> Language: Python 3.x
 
-    Editor (recommended): VS Code / PyCharm / Jupyter Notebook
+   -> Editor (recommended): VS Code / PyCharm / Jupyter Notebook
