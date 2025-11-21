@@ -1,6 +1,6 @@
-<H1> Python Programs </h1><br>
+<H1> PYTHON PROGRAMMING </h1><br>
 
-<h3>📌 About This Repository</h3>
+<h3>📌 ABOUT THIS REPOSITORY </h3>
 
 <h2>This collection includes programs covering:</h2>
 
@@ -20,7 +20,7 @@ The goal of this repo is to practice daily coding and build a strong Python foun
 
 
 
-🛠️ Technologies Used
+🛠️ TECHNOLOGIES USED : 
 
    -> Language: Python 3.x
 
