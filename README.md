@@ -1,4 +1,4 @@
-<H1> PYTHON PROGRAMMING </h1><br>
+<H1> PYTHON PROGRAMS </h1><br>
 
 <h3>📌 ABOUT THIS REPOSITORY </h3>
 
