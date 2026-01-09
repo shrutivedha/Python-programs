@@ -16,6 +16,8 @@
 
 ✅ Problem-solving & logical programs
 
+✅ Hacherank solutions
+
 The goal of this repo is to practice daily coding and build a strong Python foundation.
 
 
